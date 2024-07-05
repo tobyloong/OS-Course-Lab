@@ -1,6 +1,7 @@
 # Lab1-Bomb
 ### timeline
 20:34 我们开始bomb-lab了
+7.5 Lec1 完成，开始建立自己的操作系统喽
 This is the repository of the bomb lab in SJTU CS3601.
 
 An online tutorial: [https://www.bilibili.com/video/BV1q94y1a7BF/?vd_source=63231f40c83c4d292b2a881fda478960]
